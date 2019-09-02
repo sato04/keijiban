@@ -1,0 +1,123 @@
+body{font-family:"Hiragino Kaku Gothic ProN","メイリオ",sans-serif;}
+
+header{
+	height:35px;
+	width: 100%;
+}
+header img{
+	height:40px;
+	width:160px;
+}
+header ul{
+	height:25px;
+	background-color:black;
+	margin-top:0px;
+}
+header li{
+	color:white;
+	list-style:none;
+	float:left;
+	font-size:8px;
+	line-height:25px;
+	margin-left:90px;
+}
+main{
+	width:95%;
+}
+.left{
+    	clear:left;
+	float:left;
+	width:60%;
+}
+main h1{
+	clear:left;
+	border-left:4px solid black;
+	border-bottom:2px solid black;
+	font-size:15px;
+	padding-left:15px;
+	margin-top:10px;
+}
+form{
+	background-color:whitesmoke;
+	border:3px solid lightgray;
+	border-radius:5px;
+	padding-left:20px;
+}
+form h2{
+	border-left:3px solid red;
+	padding-left:15px;
+	font-size:15px;
+}
+.mokuji{
+	font-size:12px;
+}
+.waku{
+	border:2px solid lightgray;
+}
+.botan1{
+	background-color:darkgrey;
+	color:white;
+	border-bottom:2px solid dimgrey;
+	font-size:12px;
+	margin-bottom:15px;
+}
+.kiji1 h2{
+	border-bottom:solid 1px lightgray;
+	font-size:12px;
+}
+.kiji1{
+	background-color:whitesmoke;
+	border:solid lightgray 2px;
+	border-radius: 5px;
+	margin-top:5px;
+	padding-left:10px;
+}
+.nakami{
+	font-size:10px;
+}
+.suga{
+	font-size:8px;
+	margin-top:8px;
+	margin-bottom:8px;
+}
+
+.right{
+	float:left;
+	width:40%;
+}
+.right h2{
+	clear:left;
+	border-bottom:dotted lightgray 3px;
+	font-size:12px;
+	margin:30px 25px 6px;
+}
+.right li{
+	list-style:none;
+	margin-top:3px;
+	font-size:10px;
+}
+footer{
+	clear:both;
+	width:100%;
+	height:25px;
+	background-color:black;
+	color:white;
+	line-height:25px;
+	font-size:6px;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
